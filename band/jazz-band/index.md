@@ -1,3 +1,7 @@
+> {: .important }
+> This page is missing most of its content. Learn more by going to [this page](../info) to learn more.
+
+
 > [!NOTE]
 > This page is missing most of its content. Learn more by going to [this page](../info) to learn more.
 
