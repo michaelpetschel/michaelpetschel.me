@@ -11,8 +11,8 @@ Here you’ll find personal projects and **band class resources** for students.
 - [OSApps: An Open Source App Store For Linux, MacOS, OSX, & Windows](/projects/OSApps)
 
 ## [Writing](/writing/poetry)
-- [Band Resources](/writing/poetry/never-stop)  
-- [Band Resources](/writing/poetry/do-you-believe-me)  
+- [Never Stop](/writing/poetry/never-stop)  
+- [Do You Believe Me?](/writing/poetry/do-you-believe-me)  
   
 ## [Band Resources](band/concert-band/)
 - [Jazz Band Resources](band/jazz-band/)
