@@ -10,8 +10,11 @@ Here you’ll find personal projects and **band class resources** for students.
 - [Snow Runner 3D: Well. It's Kinda All In The Title](/projects/Snow-Rider)
 - [OSApps: An Open Source App Store For Linux, MacOS, OSX, & Windows](/projects/OSApps)
 
-## Band Resources
-- [Band Resources](band/concert-band/)
+## [Writing](/writing/poetry)
+- [Band Resources](/writing/poetry/never-stop)  
+- [Band Resources](/writing/poetry/do-you-believe-me)  
+  
+## [Band Resources](band/concert-band/)
 - [Jazz Band Resources](band/jazz-band/)
 - [Percussion Ensemble Resources](band/percussion-ensemble/)
 - [Information](band/info/)
