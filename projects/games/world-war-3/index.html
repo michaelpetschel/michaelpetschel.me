@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>World War 3 - A New Begining</title>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div id="uiOverlay">
+
+  <div class="glass topbar">
+    <div id="info"></div>
+    <div id="resources"></div>
+    <button onclick="resetGame()">Exit</button>
+  </div>
+
+  <div id="sidePanel" class="glass sidepanel">
+    <h3>Territory</h3>
+    <div id="territoryInfo">Select a territory</div>
+    <button onclick="recruit()">Recruit (+10)</button>
+    <button onclick="attack()">Attack</button>
+  </div>
+
+</div>
+
+<canvas id="gameCanvas"></canvas>
+
+<script src="game.js"></script>
+</body>
+</html>
