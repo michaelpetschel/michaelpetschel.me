@@ -3,29 +3,45 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>World War 3 - A New Begining</title>
+<title>World War 3 - A New Beginning</title>
 <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 
-<div id="uiOverlay">
+<div id="menuScreen" class="screen active">
+  <h1 class="title">WORLD WAR SIMULATOR</h1>
+
+  <div class="menu-section">
+    <h2>Select War</h2>
+    <div id="warList" class="card-grid"></div>
+  </div>
+
+  <div class="menu-section">
+    <h2>Select Nation</h2>
+    <div id="nationList" class="card-grid"></div>
+  </div>
+
+  <button class="primary-btn" onclick="startGame()">START CAMPAIGN</button>
+</div>
+
+<div id="gameScreen" class="screen">
+  <canvas id="gameCanvas"></canvas>
 
   <div class="glass topbar">
     <div id="info"></div>
     <div id="resources"></div>
-    <button onclick="resetGame()">Exit</button>
+    <div id="techStatus"></div>
+    <button onclick="returnToMenu()">Exit</button>
   </div>
 
-  <div id="sidePanel" class="glass sidepanel">
+  <div class="glass sidepanel">
     <h3>Territory</h3>
     <div id="territoryInfo">Select a territory</div>
-    <button onclick="recruit()">Recruit (+10)</button>
-    <button onclick="attack()">Attack</button>
+    <button onclick="recruit()">Recruit</button>
+    <button onclick="moveArmy()">Move</button>
+    <button onclick="research()">Research</button>
   </div>
-
 </div>
-
-<canvas id="gameCanvas"></canvas>
 
 <script src="game.js"></script>
 </body>
