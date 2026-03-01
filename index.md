@@ -8,9 +8,7 @@ Here you’ll find personal projects and **band class resources** for students.
 ## [Projects](/projects)
 - [NTS: The Worlds Most Simple Note To Self Web App](/projects/NTS)
 - [Snow Runner 3D: Well. It's Kinda All In The Title](/projects/Snow-Rider)
-- [OSApps: An Open Source App Store For Linux, MacOS, OSX, & Windows](/projects/OSApps)
-### Games
-- [The Mark Game: A Game Made For Mark](/projects/the-mark-game)  
+- [OSApps: An Open Source App Store For Linux, MacOS, OSX, & Windows](/projects/OSApps)  
 
 ## [Writing](/writing/poetry)
 - [Never Stop](/poetry/never-stop)  
